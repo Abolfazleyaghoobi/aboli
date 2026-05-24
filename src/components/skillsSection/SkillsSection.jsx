@@ -28,7 +28,7 @@ function SkillsSection() {
           </h1>
         </div>
         {/* body */}
-        <div className="xxl:w-[62%] xl:w-[70%] lg:w-[87%] mx-auto ">
+        <div className="xxl:w-[62%] xl:w-[70%] lg:w-[87%] md:mx-auto mx-2">
           <div className="">
             <div className="bg-[#262b3e]  w-full mx-auto overflow-hidden rounded-[9px] mt-4 p-2 md:pb-8 md:px-6 ">
               <h1 className="text-center text-[1.5rem] text-[#070d13] font-bold">
