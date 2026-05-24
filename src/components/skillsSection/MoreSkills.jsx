@@ -16,7 +16,7 @@ function MoreSkills() {
     <>
     
 
-      <section className="grid grid-cols-1 md:grid-cols-2 text-gray-400">
+      <section className="grid grid-cols-1 md:grid-cols-2 text-gray-200">
         {/* div left */}
         <div className="md:pt-2 md:mr-3">
           <div className="w-full flex items-center my-3 border p-1 rounded-[9px] border-[#4dbbff] text-[#4dbbff]">
