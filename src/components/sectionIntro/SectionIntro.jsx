@@ -129,7 +129,7 @@ function SectionIntro() {
               ref={(el) => (itemsRef.current[0] = el)}
               className="w-50 h-50  rounded-[50%] overflow-hidden shadow-[0px_0px_10px_2px_#000000]  inline-block"
             >
-              <img src="/image/pictureMe.png" alt="" />
+              <img src="/aboli/image/pictureMe.png" alt="" />
             </span>
             {/* shadow-[0px_0px_10px_2px_#000000] */}
 
